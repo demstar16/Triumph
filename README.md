@@ -13,4 +13,4 @@ It's simple...
 ```pip install -r requirements.txt```  
 4. Run game.py  
 ```python game.py```
-### NOTE: Recommended to run on a Linux System or Sub-System for the styling with colorama to be consistent.
+### NOTE: Recommended to be run on a Linux System or Sub-System, purely for styling purposes. The 'colorama' package appears to be more consistent in the Linux environment.
